@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Vaccine-Finder/static/css/main.4e3e44e0.chunk.css",
-    "main.js": "/Vaccine-Finder/static/js/main.1d57eb69.chunk.js",
-    "main.js.map": "/Vaccine-Finder/static/js/main.1d57eb69.chunk.js.map",
+    "main.js": "/Vaccine-Finder/static/js/main.06d8d30c.chunk.js",
+    "main.js.map": "/Vaccine-Finder/static/js/main.06d8d30c.chunk.js.map",
     "runtime-main.js": "/Vaccine-Finder/static/js/runtime-main.09fbc47e.js",
     "runtime-main.js.map": "/Vaccine-Finder/static/js/runtime-main.09fbc47e.js.map",
     "static/css/2.13fd37b7.chunk.css": "/Vaccine-Finder/static/css/2.13fd37b7.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.13fd37b7.chunk.css",
     "static/js/2.b1235452.chunk.js",
     "static/css/main.4e3e44e0.chunk.css",
-    "static/js/main.1d57eb69.chunk.js"
+    "static/js/main.06d8d30c.chunk.js"
   ]
 }
