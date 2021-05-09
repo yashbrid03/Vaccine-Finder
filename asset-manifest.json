@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Vaccine-Finder/static/css/main.4e3e44e0.chunk.css",
+    "main.js": "/Vaccine-Finder/static/js/main.1d57eb69.chunk.js",
+    "main.js.map": "/Vaccine-Finder/static/js/main.1d57eb69.chunk.js.map",
+    "runtime-main.js": "/Vaccine-Finder/static/js/runtime-main.09fbc47e.js",
+    "runtime-main.js.map": "/Vaccine-Finder/static/js/runtime-main.09fbc47e.js.map",
+    "static/css/2.13fd37b7.chunk.css": "/Vaccine-Finder/static/css/2.13fd37b7.chunk.css",
+    "static/js/2.b1235452.chunk.js": "/Vaccine-Finder/static/js/2.b1235452.chunk.js",
+    "static/js/2.b1235452.chunk.js.map": "/Vaccine-Finder/static/js/2.b1235452.chunk.js.map",
+    "static/js/3.fa7d7af1.chunk.js": "/Vaccine-Finder/static/js/3.fa7d7af1.chunk.js",
+    "static/js/3.fa7d7af1.chunk.js.map": "/Vaccine-Finder/static/js/3.fa7d7af1.chunk.js.map",
+    "index.html": "/Vaccine-Finder/index.html",
+    "static/css/2.13fd37b7.chunk.css.map": "/Vaccine-Finder/static/css/2.13fd37b7.chunk.css.map",
+    "static/css/main.4e3e44e0.chunk.css.map": "/Vaccine-Finder/static/css/main.4e3e44e0.chunk.css.map",
+    "static/js/2.b1235452.chunk.js.LICENSE.txt": "/Vaccine-Finder/static/js/2.b1235452.chunk.js.LICENSE.txt",
+    "static/media/Logo1.c1cb98eb.png": "/Vaccine-Finder/static/media/Logo1.c1cb98eb.png",
+    "static/media/guideline.5956b083.jpg": "/Vaccine-Finder/static/media/guideline.5956b083.jpg",
+    "static/media/myimg.917881ef.jpg": "/Vaccine-Finder/static/media/myimg.917881ef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09fbc47e.js",
+    "static/css/2.13fd37b7.chunk.css",
+    "static/js/2.b1235452.chunk.js",
+    "static/css/main.4e3e44e0.chunk.css",
+    "static/js/main.1d57eb69.chunk.js"
+  ]
+}
